@@ -1,0 +1,11 @@
+{
+	"warpath":"/opt/temp/",
+	"deploymentUrls":{
+		"host1":"url",
+		"host2":"url"
+	},
+	"deploymentCredentials":{
+		"host1":["username","password"],
+		"host2":["username","password"]
+	}
+}
